@@ -156,4 +156,3 @@ return compteur_bisextile
 
 
 def tempsEnDateBisextile(temps: tuple) -> tuple:
-    
